@@ -14,3 +14,7 @@ div{
 input{
     padding: 20px;
 }
+
+p{
+    background-color: blue; /* Changed in vs code pushed from 'git desktop'*/
+}
