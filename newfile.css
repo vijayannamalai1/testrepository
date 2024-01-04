@@ -18,3 +18,7 @@ input{
 p{
     background-color: blue; /* Changed in vs code pushed from 'git desktop'*/
 }
+
+nav{
+    color: grey;   /* changed external*/
+}
