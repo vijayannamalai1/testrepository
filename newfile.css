@@ -22,3 +22,7 @@ p{
 nav{
     color: grey;   /* changed external*/
 }
+
+section{
+    background: blue;
+}
