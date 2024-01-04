@@ -9,6 +9,7 @@ p{
 
 div{
     background-color: rgb(0, 255, 76);
+    color: violet; /* recently added color */
 }
 
 input{
@@ -27,3 +28,5 @@ section{
     background: blue;
 }
 /* latest 2.08 change*/
+
+
